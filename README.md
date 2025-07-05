@@ -27,4 +27,4 @@ or
 
 `carsongee/sleep:arm-v6-2025-05-07`
 
-as date tags are also added
+as date tags are also added.
